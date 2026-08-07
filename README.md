@@ -40,6 +40,6 @@
 
 ### 🎧 Now Playing
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314hxbk3cpq2dxtqxamluszbnxym&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://open.spotify.com/user/314hxbk3cpq2dxtqxamluszbnxym)
+[![Spotify](https://spotify-widget-three.vercel.app/api/orchestrator?background_type=blur_dark&border_color=121212&show_status=true)](https://open.spotify.com/user/314hxbk3cpq2dxtqxamluszbnxym)
 
 </div>
