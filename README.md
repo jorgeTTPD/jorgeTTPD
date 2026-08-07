@@ -42,19 +42,15 @@
 
 ### 📊 GitHub Stats & Metrics
 
-<img src="https://github-readme-stats.vercel.app/api?username=jorgeTTPD&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-stats-extended.vercel.app/api?username=jorgeTTPD&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeTTPD&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jorgeTTPD&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
 
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgeTTPD&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=jorgeTTPD&theme=tokyonight&no-bg=true&column=4" />
 
 ---
 
