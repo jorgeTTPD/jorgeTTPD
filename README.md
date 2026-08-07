@@ -42,7 +42,7 @@
 
 ### 📊 GitHub Stats & Metrics
 
-<img src="https://github-stats-extended.vercel.app/api?username=jorgeTTPD&show_icons=true&theme=tokyonight&hide_border=true" />
+
 
 <br>
 
@@ -50,7 +50,6 @@
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgeTTPD&theme=tokyonight&hide_border=true" />
 
 ---
 
