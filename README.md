@@ -27,34 +27,34 @@
 
 <br>
 
-<img src="[https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)" />
-<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" />
-<img src="[https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)" />
-<img src="[https://img.shields.io/badge/SageMath-0090D4?style=for-the-badge&logo=sagemath&logoColor=white](https://img.shields.io/badge/SageMath-0090D4?style=for-the-badge&logo=sagemath&logoColor=white)" />
-<img src="[https://img.shields.io/badge/Pascal%2FDelphi-EA9D1E?style=for-the-badge&logo=delphi&logoColor=white](https://img.shields.io/badge/Pascal%2FDelphi-EA9D1E?style=for-the-badge&logo=delphi&logoColor=white)" />
-<img src="[https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)" />
-<img src="[https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)" />
-<img src="[https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)" />
-<img src="[https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)" />
-<img src="[https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)" />
+<img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/SageMath-0090D4?style=for-the-badge&logo=sagemath&logoColor=white" />
+<img src="https://img.shields.io/badge/Pascal%2FDelphi-EA9D1E?style=for-the-badge&logo=delphi&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 ---
 
 ### 📊 GitHub Stats & Metrics
 
-<img src="[https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)" />
+<img src="https://github-readme-stats.vercel.app/api?username=jorgeTTPD&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <br>
 
-<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&hide=html,css](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&hide=html,css)" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeTTPD&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
 
 <br>
 
-<img src="[https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true)" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgeTTPD&theme=tokyonight&hide_border=true" />
 
 <br>
 
-<img src="[https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&no-bg=true&column=4](https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&no-bg=true&column=4)" />
+<img src="https://github-profile-trophy.vercel.app/?username=jorgeTTPD&theme=tokyonight&no-bg=true&column=4" />
 
 ---
 
