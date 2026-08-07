@@ -38,13 +38,8 @@
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnahiSU&theme=tokyonight" width="60%" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnahiSU&theme=tokyonight" width="30%" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnahiSU&theme=tokyonight" width="30%" />
-    <br>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnahiSU&theme=tokyonight" width="30%" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnahiSU&theme=tokyonight&utcOffset=-4" width="30%" />
 
+   
 ---
 
 ### 📊 GitHub Stats & Metrics
@@ -54,6 +49,10 @@
 <br>
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jorgeTTPD&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jorgeTTPD&theme=tokyonight" width="30%" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorgeTTPD&theme=tokyonight" width="30%" />
+    <br>
+
 
 <br>
 
