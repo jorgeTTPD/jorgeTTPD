@@ -1,32 +1,20 @@
 <div align="center">
 
-<pre>
-██████╗  ██████╗ ██████╗ ███╗   ██╗
-██╔══██╗██╔═══██╗██╔══██╗████╗  ██║
-██████╔╝██║   ██║██████╔╝██╔██╗ ██║
-██╔══██╗██║   ██║██╔══██╗██║╚██╗██║
-██████╔╝╚██████╔╝██║  ██║██║ ╚████║
-╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
-
-████████╗ ██████╗     ██████╗ ██╗███████╗
-╚══██╔══╝██╔═══██╗    ██╔══██╗██║██╔════╝
- ██║   ██║   ██║    ██║  ██║██║█████╗
- ██║   ██║   ██║    ██║  ██║██║██╔══╝
-   ██║   ╚██████╔╝    ██████╔╝██║███████╗
-   ╚═╝    ╚═════╝     ╚═════╝ ╚═╝╚══════╝
-
-(████████╗    ███████╗)
-(╚══██╔══╝    ██╔════╝)
-(   ██║       ███████╗)
-(   ██║       ╚════██║)
-(   ██║       ███████║)
-(   ╚═╝       ╚══════╝)
-</pre>
+### `✦ JORGE TTPD ✦`
 
 `julia · scientific computing · data engineering`
 
 <br>
 
+#### 🔗 Connect With Me
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jorge_q_e/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@jorge5bz)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/314hxbk3cpq2dxtqxamluszbnxym)
+[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/@bl4ze_7-67)
+
+<br>
+
+#### 💻 Tech Stack
 <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
@@ -38,29 +26,19 @@
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
-
-   
 ---
 
 ### 📊 GitHub Stats & Metrics
-
-
-
 <br>
-
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jorgeTTPD&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jorgeTTPD&theme=tokyonight" width="30%" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorgeTTPD&theme=tokyonight" width="30%" />
-    <br>
-
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jorgeTTPD&theme=tokyonight" width="30%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorgeTTPD&theme=tokyonight" width="30%" />
 
 <br>
-
 
 ---
 
 ### 🎧 Now Playing
-
 [![Spotify](https://spotify-widget-three.vercel.app/api/orchestrator?background_type=blur_dark&border_color=121212&show_status=true)](https://open.spotify.com/user/314hxbk3cpq2dxtqxamluszbnxym)
 
 </div>
