@@ -43,5 +43,5 @@
 
 ### 🎧 Now Playing
 [![Spotify](https://spotify-widget-three.vercel.app/api/orchestrator?background_type=blur_dark&border_color=121212&show_status=true)](https://open.spotify.com/user/314hxbk3cpq2dxtqxamluszbnxym)
-
+<img src="https://tu-proyecto-en-vercel.vercel.app/api/top-tracks?username=jorgeTTPD" width="420px" />
 </div>
