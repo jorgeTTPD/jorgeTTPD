@@ -36,8 +36,6 @@
 
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jorgeTTPD&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="250px" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jorgeTTPD&theme=tokyonight" width="250px" />
-</p>
-<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorgeTTPD&theme=tokyonight" width="250px" />
 
 <br>
