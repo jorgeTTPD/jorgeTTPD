@@ -1,12 +1,11 @@
 <div align="center">
 
 <pre style="font-size: 8px; line-height: 8px; font-family: monospace; margin: 0;">
-╔╗ ╔═╗╦═╗╔╗╔    ╔╦╗╔═╗    ╔╦╗╦╔═╗
-╠╩╗║ ║╠╦╝║║║     ║ ║ ║     ║ ║║╣ 
-╚═╝╚═╝╩╚═╝╚╝     ╩ ╚═╝     ╩ ╩╚═╝
+╔╗ ╔═╗╦═╗╔╗╔   ╔╦╗╔═╗    ╦═╗ ╦╔═╗
+╠╩╗║ ║╠╦╝║║║    ║ ║ ║    ║ ║ ║║╣ 
+╚═╝╚═╝╩╚═╝╚╝    ╩ ╚═╝    ╩═╝ ╩╚═╝
 </pre>
 
-`julia · scientific computing · data engineering`
 
 <br>
 
