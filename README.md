@@ -8,7 +8,10 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=7AA2F7&width=520&lines=Soy%20el%20belic%C3%B3n;R%C3%A1pido%20es%20como%20me%20muevo%20yo;El%20que%20no%20se%20mueve%20sin%20traer%20un%20convoy;Que%20aqu%C3%AD%20mando%20yo;Carros%20deportivos%20en%20mi%20colecci%C3%B3n" alt="Typing SVG" />
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://archive.org/download/mbid-06638016-addb-4638-84f3-2e9b5724e42b/mbid-06638016-addb-4638-84f3-2e9b5724e42b-36247880036_thumb500.jpg" width="140" height="140" alt="GÉNESIS - Peso Pluma" style="border-radius: 10px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=7AA2F7&width=560&lines=Ya%20me%20escucharon%20por%20ah%C3%AD;Mitotes%20han%20de%20sobrar%2C%20no%20me%20importa;A%20m%C3%AD%20me%20gusta%20chambear;Al%20diablo%20le%20he%20de%20rezar;Y%20al%20Toner%20lo%20traigo%20atr%C3%A1s%2C%20es%20mi%20sombra" alt="Typing SVG" />
+</div>
 
 <br>
 
