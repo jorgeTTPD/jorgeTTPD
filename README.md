@@ -8,17 +8,19 @@
 
 <br>
 
-<div style="display: flex; align-items: stretch; justify-content: center; border: 2px solid #7AA2F7; border-radius: 14px; overflow: hidden; background: #1a1b26; max-width: 700px; margin: 0 auto;">
-  <img src="https://archive.org/download/mbid-06638016-addb-4638-84f3-2e9b5724e42b/mbid-06638016-addb-4638-84f3-2e9b5724e42b-36247880036_thumb500.jpg" width="170" height="170" alt="GÉNESIS - Peso Pluma" style="object-fit: cover; flex-shrink: 0;" />
-  <div style="display: flex; flex-direction: column; justify-content: space-between; padding: 16px 18px; flex: 1; min-width: 0; text-align: left;">
-    <div>
-      <div style="font-size: 20px; font-weight: 700; color: #7AA2F7;">🎵 GAVILÁN II</div>
-      <div style="font-size: 15px; color: #b3b3b3; margin-top: 2px;">Peso Pluma · ft. Tito Double P</div>
-      <div style="font-size: 13px; color: #9aa5ce; margin-top: 2px;">Álbum <b>GÉNESIS</b> (2023) · Corridos Tumbados</div>
-    </div>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=7AA2F7&width=430&lines=Ya%20me%20escucharon%20por%20ah%C3%AD;Mitotes%20han%20de%20sobrar%2C%20no%20me%20importa;A%20m%C3%AD%20me%20gusta%20chambear;Al%20diablo%20le%20he%20de%20rezar;Y%20al%20Toner%20lo%20traigo%20atr%C3%A1s%2C%20es%20mi%20sombra" alt="Typing SVG" style="margin-top: 12px;" />
-  </div>
-</div>
+<table align="center" style="border: 2px solid #7AA2F7; border-radius: 14px; background: #1a1b26;">
+  <tr>
+    <td rowspan="2" align="center" style="padding: 10px;"><img src="https://archive.org/download/mbid-06638016-addb-4638-84f3-2e9b5724e42b/mbid-06638016-addb-4638-84f3-2e9b5724e42b-36247880036_thumb500.jpg" width="170" alt="GÉNESIS - Peso Pluma" /></td>
+    <td align="center" style="padding: 12px 16px 2px 16px;">
+      <span style="font-size: 20px; font-weight: bold; color: #7AA2F7;">🎵 GAVILÁN II</span><br/>
+      <span style="font-size: 15px; color: #b3b3b3;">Peso Pluma · ft. Tito Double P</span><br/>
+      <span style="font-size: 13px; color: #9aa5ce;">Álbum <b>GÉNESIS</b> (2023) · Corridos Tumbados</span>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 2px 16px 12px 16px;"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=7AA2F7&width=430&lines=Ya%20me%20escucharon%20por%20ah%C3%AD;Mitotes%20han%20de%20sobrar%2C%20no%20me%20importa;A%20m%C3%AD%20me%20gusta%20chambear;Al%20diablo%20le%20he%20de%20rezar;Y%20al%20Toner%20lo%20traigo%20atr%C3%A1s%2C%20es%20mi%20sombra" alt="Typing SVG" /></td>
+  </tr>
+</table>
 
 <br>
 
