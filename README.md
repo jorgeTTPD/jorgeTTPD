@@ -6,6 +6,9 @@
 ╚═╝╚═╝╩╚═╝╚╝    ╩ ╚═╝    ╩═╝ ╩╚═╝
 </pre>
 
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=7AA2F7&width=500&lines=Hola%2C%20soy%20JORGE%20%F0%9F%91%8B;Julia%20%E2%80%A2%20Rust%20%E2%80%A2%20Python;Linux%20%26%20shell%20enjoyer;M%C3%BAsica%20todo%20el%20d%C3%ADa%20%F0%9F%8E%A7" alt="Typing SVG" />
 
 <br>
 
