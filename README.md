@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=7AA2F7&width=500&lines=Hola%2C%20soy%20JORGE%20%F0%9F%91%8B;Julia%20%E2%80%A2%20Rust%20%E2%80%A2%20Python;Linux%20%26%20shell%20enjoyer;M%C3%BAsica%20todo%20el%20d%C3%ADa%20%F0%9F%8E%A7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=7AA2F7&width=520&lines=Soy%20el%20belic%C3%B3n;R%C3%A1pido%20es%20como%20me%20muevo%20yo;El%20que%20no%20se%20mueve%20sin%20traer%20un%20convoy;Que%20aqu%C3%AD%20mando%20yo;Carros%20deportivos%20en%20mi%20colecci%C3%B3n" alt="Typing SVG" />
 
 <br>
 
