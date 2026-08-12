@@ -18,7 +18,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 2px 16px 12px 16px;"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=7AA2F7&width=430&lines=Ya%20me%20escucharon%20por%20ah%C3%AD;Mitotes%20han%20de%20sobrar%2C%20no%20me%20importa;A%20m%C3%AD%20me%20gusta%20chambear;Al%20diablo%20le%20he%20de%20rezar;Y%20al%20Toner%20lo%20traigo%20atr%C3%A1s%2C%20es%20mi%20sombra" alt="Typing SVG" /></td>
+    <td align="center" style="padding: 2px 16px 12px 16px;"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=7AA2F7&width=560&lines=Ya%20me%20escucharon%20por%20ah%C3%AD;Mitotes%20han%20de%20sobrar%2C%20no%20me%20importa;A%20m%C3%AD%20me%20gusta%20chambear;Al%20diablo%20le%20he%20de%20rezar;Y%20al%20Toner%20lo%20traigo%20atr%C3%A1s%2C%20es%20mi%20sombra" alt="Typing SVG" /></td>
   </tr>
 </table>
 
