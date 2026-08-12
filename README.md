@@ -8,15 +8,14 @@
 
 <br>
 
-<div style="margin: 8px 0 2px;">
-  <span style="font-size: 20px; font-weight: 700; color: #7AA2F7;">🎵 GAVILÁN II</span>
-  <span style="font-size: 15px; color: #b3b3b3;">&nbsp;—&nbsp;Peso Pluma&nbsp;·&nbsp;ft. Tito Double P</span>
-</div>
-<div style="font-size: 13px; color: #9aa5ce; margin-bottom: 12px;">Álbum&nbsp;<b>GÉNESIS</b>&nbsp;(2023)&nbsp;·&nbsp;Corridos Tumbados</div>
-
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; justify-content: center; gap: 24px; flex-wrap: wrap;">
   <img src="https://archive.org/download/mbid-06638016-addb-4638-84f3-2e9b5724e42b/mbid-06638016-addb-4638-84f3-2e9b5724e42b-36247880036_thumb500.jpg" width="140" height="140" alt="GÉNESIS - Peso Pluma" style="border-radius: 10px;" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=7AA2F7&width=560&lines=Ya%20me%20escucharon%20por%20ah%C3%AD;Mitotes%20han%20de%20sobrar%2C%20no%20me%20importa;A%20m%C3%AD%20me%20gusta%20chambear;Al%20diablo%20le%20he%20de%20rezar;Y%20al%20Toner%20lo%20traigo%20atr%C3%A1s%2C%20es%20mi%20sombra" alt="Typing SVG" />
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 4px;">
+    <div style="font-size: 20px; font-weight: 700; color: #7AA2F7;">🎵 GAVILÁN II</div>
+    <div style="font-size: 15px; color: #b3b3b3;">Peso Pluma · ft. Tito Double P</div>
+    <div style="font-size: 13px; color: #9aa5ce;">Álbum <b>GÉNESIS</b> (2023) · Corridos Tumbados</div>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=7AA2F7&width=560&lines=Ya%20me%20escucharon%20por%20ah%C3%AD;Mitotes%20han%20de%20sobrar%2C%20no%20me%20importa;A%20m%C3%AD%20me%20gusta%20chambear;Al%20diablo%20le%20he%20de%20rezar;Y%20al%20Toner%20lo%20traigo%20atr%C3%A1s%2C%20es%20mi%20sombra" alt="Typing SVG" />
+  </div>
 </div>
 
 <br>
