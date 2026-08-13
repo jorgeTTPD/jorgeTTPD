@@ -29,6 +29,7 @@
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@jorge5bz)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/314hxbk3cpq2dxtqxamluszbnxym)
 [![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/@bl4ze_7-67)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgeescalera500@gmail.com)
 
 <br>
 
@@ -43,13 +44,14 @@
   <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
   <img src="https://skillicons.dev/icons?i=java" title="Java" />
   <img src="https://skillicons.dev/icons?i=c" title="C" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" title="R & RStudio" />
-  <img src="https://img.shields.io/badge/LaTeX-008081?style=for-the-badge&logo=latex&logoColor=white" title="LaTeX" />
+  <img src="https://skillicons.dev/icons?i=r" title="R & RStudio" />
+  <img src="https://skillicons.dev/icons?i=latex" title="LaTeX" />
+  <img src="assets/icons/sagemath.svg" title="SageMath" />
 </p>
 
 ### ⚙️ Frameworks y Engineering
 <p align="left">
-  <img src="https://img.shields.io/badge/Pascal%2FDelphi-EA9D1E?style=for-the-badge&logo=delphi&logoColor=white" title="Delphi & FireMonkey" />
+  <img src="assets/icons/delphi.svg" title="Delphi & FireMonkey" />
   <img src="https://skillicons.dev/icons?i=scala" title="Scala" />
   <img src="https://skillicons.dev/icons?i=spring" title="Spring" />
 </p>
@@ -58,7 +60,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
-  <img src="https://img.shields.io/badge/Microsoft%20Access-CC292B?style=for-the-badge&logo=microsoft-access&logoColor=white" title="Microsoft Access" />
 </p>
 
 ### 🧰 Herramientas de desarrollo
