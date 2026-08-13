@@ -33,10 +33,10 @@
 
 <br>
 
-## Tecnologías conocidas👨🏻‍💻
-🛠️ Tecnologías y herramientas que utilizo para desarrollo, automatización e ingeniería.
+## Known Technologies👨🏻‍💻
+🛠️ Technologies and tools I use for development, automation and engineering.
 
-### 👨‍💻 Lenguajes de programación
+### 👨‍💻 Languages & Frameworks
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py" title="Python" />
   <img src="https://skillicons.dev/icons?i=julia" title="Julia" />
@@ -47,29 +47,25 @@
   <img src="https://skillicons.dev/icons?i=r" title="R & RStudio" />
   <img src="https://skillicons.dev/icons?i=latex" title="LaTeX" />
   <img src="assets/icons/sagemath.svg" width="48" height="48" title="SageMath" />
-</p>
-
-### ⚙️ Frameworks y Engineering
-<p align="left">
   <img src="assets/icons/delphi.svg" width="48" height="48" title="Delphi & FireMonkey" />
   <img src="https://skillicons.dev/icons?i=scala" title="Scala" />
   <img src="https://skillicons.dev/icons?i=spring" title="Spring" />
 </p>
 
-### 🗃️ Bases de datos
+### 🗃️ Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
 </p>
 
-### 🧰 Herramientas de desarrollo
+### 🧰 Dev Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" title="Git" />
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
   <img src="https://skillicons.dev/icons?i=bash" title="Shell/Bash" />
 </p>
 
-### 🖥️ Sistemas Operativos
+### 🖥️ Operating Systems
 <p align="left">
   <img src="https://skillicons.dev/icons?i=windows" title="Windows" />
   <img src="https://skillicons.dev/icons?i=mint" title="Linux Mint" />
