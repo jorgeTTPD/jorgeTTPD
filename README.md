@@ -34,7 +34,7 @@
 <br>
 
 ## Known Technologies👨🏻‍💻
-🛠️ Technologies and tools I use for development, automation and engineering.
+
 
 ### 👨‍💻 Languages & Frameworks
 <p align="left">
