@@ -32,18 +32,48 @@
 
 <br>
 
-#### 💻 Tech Stack
-<img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/SageMath-0090D4?style=for-the-badge&logo=sagemath&logoColor=white" />
-<img src="https://img.shields.io/badge/Pascal%2FDelphi-EA9D1E?style=for-the-badge&logo=delphi&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+## Tecnologías conocidas👨🏻‍💻
+🛠️ Tecnologías y herramientas que utilizo para desarrollo, automatización e ingeniería.
 
+### 👨‍💻 Lenguajes de programación
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py" title="Python" />
+  <img src="https://skillicons.dev/icons?i=julia" title="Julia" />
+  <img src="https://skillicons.dev/icons?i=rust" title="Rust" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=c" title="C" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" title="R & RStudio" />
+  <img src="https://img.shields.io/badge/LaTeX-008081?style=for-the-badge&logo=latex&logoColor=white" title="LaTeX" />
+</p>
+
+### ⚙️ Frameworks y Engineering
+<p align="left">
+  <img src="https://img.shields.io/badge/Pascal%2FDelphi-EA9D1E?style=for-the-badge&logo=delphi&logoColor=white" title="Delphi & FireMonkey" />
+  <img src="https://skillicons.dev/icons?i=scala" title="Scala" />
+  <img src="https://skillicons.dev/icons?i=spring" title="Spring" />
+</p>
+
+### 🗃️ Bases de datos
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+  <img src="https://img.shields.io/badge/Microsoft%20Access-CC292B?style=for-the-badge&logo=microsoft-access&logoColor=white" title="Microsoft Access" />
+</p>
+
+### 🧰 Herramientas de desarrollo
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=bash" title="Shell/Bash" />
+</p>
+
+### 🖥️ Sistemas Operativos
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=windows" title="Windows" />
+  <img src="https://skillicons.dev/icons?i=mint" title="Linux Mint" />
+  <img src="https://skillicons.dev/icons?i=arch" title="Arch Linux" />
+</p>
 ---
 
 ### 📊 GitHub Stats & Metrics
