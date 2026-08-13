@@ -46,12 +46,12 @@
   <img src="https://skillicons.dev/icons?i=c" title="C" />
   <img src="https://skillicons.dev/icons?i=r" title="R & RStudio" />
   <img src="https://skillicons.dev/icons?i=latex" title="LaTeX" />
-  <img src="assets/icons/sagemath.svg" title="SageMath" />
+  <img src="assets/icons/sagemath.svg" width="48" height="48" title="SageMath" />
 </p>
 
 ### ⚙️ Frameworks y Engineering
 <p align="left">
-  <img src="assets/icons/delphi.svg" title="Delphi & FireMonkey" />
+  <img src="assets/icons/delphi.svg" width="48" height="48" title="Delphi & FireMonkey" />
   <img src="https://skillicons.dev/icons?i=scala" title="Scala" />
   <img src="https://skillicons.dev/icons?i=spring" title="Spring" />
 </p>
