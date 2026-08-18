@@ -95,9 +95,9 @@
 
 ### 🛠️ Tools & Setup
 <p align="left">
-  <img src="https://img.shields.io/badge/-57A143?style=for-the-badge&logo=neovim&logoColor=white" title="Neovim" />
-  <img src="https://img.shields.io/badge/X11-9aa5ce?style=for-the-badge" title="X11" />
-  <img src="https://img.shields.io/badge/-1a1b26?style=for-the-badge&logo=wayland&logoColor=FFBC00" title="Wayland" />
+  <img src="https://img.shields.io/badge/-57A143?style=for-the-badge&logo=neovim&logoColor=white" title="Neovim" height="80" />
+  <img src="https://img.shields.io/badge/X11-9aa5ce?style=for-the-badge" title="X11" height="80" />
+  <img src="https://img.shields.io/badge/-1a1b26?style=for-the-badge&logo=wayland&logoColor=FFBC00" title="Wayland" height="80" />
 
 </p>
 ---
