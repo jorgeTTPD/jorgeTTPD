@@ -92,6 +92,17 @@
   <img src="https://skillicons.dev/icons?i=mint" title="Linux Mint" />
   <img src="https://skillicons.dev/icons?i=arch" title="Arch Linux" />
 </p>
+
+### 🛠️ Tools & Setup
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=neovim" title="Neovim" />
+  <img src="https://skillicons.dev/icons?i=vim" title="Vim" />
+  <img src="https://skillicons.dev/icons?i=lua" title="Lua" />
+  <img src="https://skillicons.dev/icons?i=tmux" title="Tmux" />
+  <img src="https://img.shields.io/badge/bspwm-7AA2F7?style=for-the-badge" title="bspwm" />
+  <img src="https://img.shields.io/badge/i3-7AA2F7?style=for-the-badge" title="i3" />
+  <img src="https://img.shields.io/badge/Polybar-7AA2F7?style=for-the-badge" title="Polybar" />
+</p>
 ---
 
 ### 📊 GitHub Stats & Metrics
@@ -101,6 +112,13 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorgeTTPD&theme=tokyonight" width="250px" />
 
 <br>
+
+---
+
+### 💬 Random Dev Quote
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
 
 ---
 
