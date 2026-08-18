@@ -65,7 +65,7 @@
 
 
 ### 👨‍💻 Languages & Frameworks
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=py" title="Python" />
   <img src="https://skillicons.dev/icons?i=julia" title="Julia" />
   <img src="https://skillicons.dev/icons?i=rust" title="Rust" />
@@ -81,27 +81,27 @@
 </p>
 
 ### 🗃️ Databases
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
 </p>
 
 ### 🧰 Dev Tools
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git" title="Git" />
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
   <img src="https://skillicons.dev/icons?i=bash" title="Shell/Bash" />
 </p>
 
 ### 🖥️ Operating Systems
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=windows" title="Windows" />
   <img src="https://skillicons.dev/icons?i=mint" title="Linux Mint" />
   <img src="https://skillicons.dev/icons?i=arch" title="Arch Linux" />
 </p>
 
 ### 🛠️ Tools & Setup
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=neovim" title="Neovim" />
   <img src="assets/icons/x11.svg" title="X11" width="48" height="48" />
   <img src="assets/icons/zed.svg" title="Zed" width="48" height="48" />
