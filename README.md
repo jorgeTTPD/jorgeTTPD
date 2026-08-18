@@ -103,7 +103,8 @@
 ### 🛠️ Tools & Setup
 <p align="left">
   <img src="https://skillicons.dev/icons?i=neovim" title="Neovim" />
-  <img src="https://img.shields.io/badge/X11-9aa5ce?style=for-the-badge" title="X11" />
+  <img src="assets/icons/x11.svg" title="X11" width="48" height="48" />
+  <img src="assets/icons/zed.svg" title="Zed" width="48" height="48" />
   <img src="https://cdn.simpleicons.org/wayland/FFBC00" title="Wayland" width="48" height="48" />
 </p>
 ---
