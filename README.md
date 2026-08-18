@@ -95,13 +95,16 @@
 
 ### 🛠️ Tools & Setup
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=neovim" title="Neovim" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" title="Neovim" />
+  <img src="https://img.shields.io/badge/X11-9aa5ce?style=for-the-badge" title="X11" />
+  <img src="https://img.shields.io/badge/Wayland-1a1b26?style=for-the-badge&logo=wayland&logoColor=FFBC00" title="Wayland" />
   <img src="https://skillicons.dev/icons?i=vim" title="Vim" />
   <img src="https://skillicons.dev/icons?i=lua" title="Lua" />
   <img src="https://skillicons.dev/icons?i=tmux" title="Tmux" />
   <img src="https://img.shields.io/badge/bspwm-7AA2F7?style=for-the-badge" title="bspwm" />
   <img src="https://img.shields.io/badge/i3-7AA2F7?style=for-the-badge" title="i3" />
   <img src="https://img.shields.io/badge/Polybar-7AA2F7?style=for-the-badge" title="Polybar" />
+  <img src="https://img.shields.io/badge/Zed-2AC3DE?style=for-the-badge" title="Zed" />
 </p>
 ---
 
@@ -115,9 +118,9 @@
 
 ---
 
-### 💬 Random Dev Quote
+### 💬 Quote
 <p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Don%27t%20you%20ever%20let%20a%20soul%20in%20the%20world%20tell%20you%20that%20you%20can%27t%20be%20exactly%20who%20you%20are.&author=Lady%20Gaga" alt="Lady Gaga Quote" />
 </p>
 
 ---
