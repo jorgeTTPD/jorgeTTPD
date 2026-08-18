@@ -28,7 +28,7 @@
 <table align="center" style="border: 2px solid #7AA2F7; border-radius: 14px; background: #1a1b26;">
   <tr>
     <td align="center" style="padding: 14px 20px;">
-      <span style="font-size: 16px; font-weight: bold; color: #f7768e;">💀 odio las tecnologias web</span>
+      <span style="font-size: 16px; font-weight: bold; color: #f7768e;">💀 Web development doesn't interest me. React, Astro & Next.js can stay dead to me.</span>
       <br/><br/>
       <a href="https://vt.tiktok.com/ZSVMC8FVb/" target="_blank">
         <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
