@@ -45,7 +45,7 @@
 
 <br>
 
-### 💬 Quote
+### Mantra
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Don%27t%20you%20ever%20let%20a%20soul%20in%20the%20world%20tell%20you%20that%20you%20can%27t%20be%20exactly%20who%20you%20are.&author=Lady%20Gaga" alt="Lady Gaga Quote" />
 </p>
