@@ -45,6 +45,13 @@
 
 <br>
 
+### 💬 Quote
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Don%27t%20you%20ever%20let%20a%20soul%20in%20the%20world%20tell%20you%20that%20you%20can%27t%20be%20exactly%20who%20you%20are.&author=Lady%20Gaga" alt="Lady Gaga Quote" />
+</p>
+
+<br>
+
 #### 📡 Links & Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jorge_q_e/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@jorge5bz)
@@ -109,13 +116,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorgeTTPD&theme=tokyonight" width="250px" />
 
 <br>
-
----
-
-### 💬 Quote
-<p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Don%27t%20you%20ever%20let%20a%20soul%20in%20the%20world%20tell%20you%20that%20you%20can%27t%20be%20exactly%20who%20you%20are.&author=Lady%20Gaga" alt="Lady Gaga Quote" />
-</p>
 
 ---
 
