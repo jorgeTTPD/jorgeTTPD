@@ -31,13 +31,13 @@
       <span style="font-size: 16px; font-weight: bold; color: #f7768e;">💀 odio las tecnologias web</span>
       <br/><br/>
       <a href="https://vt.tiktok.com/ZSVMC8FVb/" target="_blank">
-        <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+        <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
       </a>
       <a href="https://www.youtube.com/watch?v=PGJ43zaam_0&list=RDPGJ43zaam_0&start_radio=1&pp=oAcB" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+        <img src="https://img.shields.io/badge/-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
       </a>
       <a href="https://open.spotify.com/track/26YfhyustEuuQpTzxp4tdP?si=_ol4QIC0RW6gkuRxbcsgkw&utm_source=copy-link&sci=spotify%3Acard-config%3A38QvTXRXqO9i0o3AejmsZw" target="_blank">
-        <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+        <img src="https://img.shields.io/badge/-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
       </a>
     </td>
   </tr>
