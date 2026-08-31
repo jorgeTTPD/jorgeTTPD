@@ -96,8 +96,15 @@
 ### 🖥️ Operating Systems
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" title="Windows" />
+  <img src="https://skillicons.dev/icons?i=debian" title="Debian" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu" />
   <img src="https://skillicons.dev/icons?i=mint" title="Linux Mint" />
   <img src="https://skillicons.dev/icons?i=arch" title="Arch Linux" />
+</p>
+
+### ☁️ Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure" title="Azure" />
 </p>
 
 ### 🛠️ Tools & Setup
