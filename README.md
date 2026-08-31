@@ -107,7 +107,6 @@
   <img src="assets/icons/zed.svg" title="Zed" width="48" height="48" />
   <img src="https://cdn.simpleicons.org/wayland/FFBC00" title="Wayland" width="48" height="48" />
 </p>
----
 
 ### 📊 GitHub Stats & Metrics
 <br>
@@ -117,24 +116,5 @@
 
 <br>
 
----
-
-### 🎧 Now Playing
-[![Spotify](https://spotify-widget-three.vercel.app/api/orchestrator?background_type=blur_dark&border_color=121212&show_status=true)](https://open.spotify.com/user/314hxbk3cpq2dxtqxamluszbnxym)
-
-<br>
-
-#### 🎵 Top Tracks (last 4 weeks)
-[![Top Tracks](https://spotibadge.vercel.app/api/top-track/.eJwVzstygjAYQOF3ybqL5M8F0h1FvJTiFLSK3TAJJBYt4IBU0Om7ly7PzLc4D9SiZ-TFfi96hYNFmlAHPuusqyw70Q_CQnfXYNnqn4AFfKiH5Lx8n-3UoVtXYyS8eG3Tm1e8NNts_oZPZ0vHZp8M-PBton1l7TGYXUt_E-fl4l6nylXhZVxmReS_HvuNhHkfiq9WXpIVekLFdLK9ld11nCIvpxKACTiuAak1MwKklZzQwjhCuUJy_e-6yRkGkIOhlFDOCAFFNbaUK06J0qpg6PcPd35GSQ.5Y1uDLAZ8cIaANWxSF_GXWTWVw4.svg?content_size=small&background_type=blur_dark&border_color=ffffff&background_color=181414&width=360&time_range=short_term)](https://spotibadge.vercel.app/redirect-top-track/.eJwVzstygjAYQOF3ybqL5M8F0h1FvJTiFLSK3TAJJBYt4IBU0Om7ly7PzLc4D9SiZ-TFfi96hYNFmlAHPuusqyw70Q_CQnfXYNnqn4AFfKiH5Lx8n-3UoVtXYyS8eG3Tm1e8NNts_oZPZ0vHZp8M-PBton1l7TGYXUt_E-fl4l6nylXhZVxmReS_HvuNhHkfiq9WXpIVekLFdLK9ld11nCIvpxKACTiuAak1MwKklZzQwjhCuUJy_e-6yRkGkIOhlFDOCAFFNbaUK06J0qpg6PcPd35GSQ.5Y1uDLAZ8cIaANWxSF_GXWTWVw4?time_range=short_term)
-
-<br>
-
-#### 🎤 Top Artists (last 4 weeks)
-[![Top Artists](https://spotibadge.vercel.app/api/top-artist/.eJwVzstygjAYQOF3ybqL5M8F0h1FvJTiFLSK3TAJJBYt4IBU0Om7ly7PzLc4D9SiZ-TFfi96hYNFmlAHPuusqyw70Q_CQnfXYNnqn4AFfKiH5Lx8n-3UoVtXYyS8eG3Tm1e8NNts_oZPZ0vHZp8M-PBton1l7TGYXUt_E-fl4l6nylXhZVxmReS_HvuNhHkfiq9WXpIVekLFdLK9ld11nCIvpxKACTiuAak1MwKklZzQwjhCuUJy_e-6yRkGkIOhlFDOCAFFNbaUK06J0qpg6PcPd35GSQ.5Y1uDLAZ8cIaANWxSF_GXWTWVw4.svg?content_size=small&background_type=blur_dark&border_color=ffffff&background_color=181414&width=360&time_range=short_term)](https://spotibadge.vercel.app/redirect-top-artist/.eJwVzstygjAYQOF3ybqL5M8F0h1FvJTiFLSK3TAJJBYt4IBU0Om7ly7PzLc4D9SiZ-TFfi96hYNFmlAHPuusqyw70Q_CQnfXYNnqn4AFfKiH5Lx8n-3UoVtXYyS8eG3Tm1e8NNts_oZPZ0vHZp8M-PBton1l7TGYXUt_E-fl4l6nylXhZVxmReS_HvuNhHkfiq9WXpIVekLFdLK9ld11nCIvpxKACTiuAak1MwKklZzQwjhCuUJy_e-6yRkGkIOhlFDOCAFFNbaUK06J0qpg6PcPd35GSQ.5Y1uDLAZ8cIaANWxSF_GXWTWVw4?time_range=short_term)
-
-<br>
-
-#### 🔄 Recently Played
-[![Recently Played](https://spotibadge.vercel.app/api/recently-played/.eJwVzstygjAYQOF3ybqL5M8F0h1FvJTiFLSK3TAJJBYt4IBU0Om7ly7PzLc4D9SiZ-TFfi96hYNFmlAHPuusqyw70Q_CQnfXYNnqn4AFfKiH5Lx8n-3UoVtXYyS8eG3Tm1e8NNts_oZPZ0vHZp8M-PBton1l7TGYXUt_E-fl4l6nylXhZVxmReS_HvuNhHkfiq9WXpIVekLFdLK9ld11nCIvpxKACTiuAak1MwKklZzQwjhCuUJy_e-6yRkGkIOhlFDOCAFFNbaUK06J0qpg6PcPd35GSQ.5Y1uDLAZ8cIaANWxSF_GXWTWVw4.svg?content_size=small&background_type=blur_dark&border_color=ffffff&background_color=181414&width=360)](https://spotibadge.vercel.app/redirect-recently-played/.eJwVzstygjAYQOF3ybqL5M8F0h1FvJTiFLSK3TAJJBYt4IBU0Om7ly7PzLc4D9SiZ-TFfi96hYNFmlAHPuusqyw70Q_CQnfXYNnqn4AFfKiH5Lx8n-3UoVtXYyS8eG3Tm1e8NNts_oZPZ0vHZp8M-PBton1l7TGYXUt_E-fl4l6nylXhZVxmReS_HvuNhHkfiq9WXpIVekLFdLK9ld11nCIvpxKACTiuAak1MwKklZzQwjhCuUJy_e-6yRkGkIOhlFDOCAFFNbaUK06J0qpg6PcPd35GSQ.5Y1uDLAZ8cIaANWxSF_GXWTWVw4)
 
 </div>
