@@ -116,12 +116,33 @@
 </p>
 
 ### 📊 GitHub Stats & Metrics
-<br>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jorgeTTPD&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="250px" />
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jorgeTTPD&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=7AA2F7&icon_color=7AA2F7&text_color=9AA5CE" alt="GitHub stats" />
+  &nbsp;&nbsp;
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jorgeTTPD&layout=compact&langs_count=8&hide_border=true&hide=html,css&bg_color=00000000&title_color=7AA2F7&text_color=9AA5CE" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=jorgeTTPD&hide_border=true&background=00000000&stroke=7AA2F7&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7&sideLabels=9AA5CE&dates=565F89&currStreakNum=C0CAF5&sideNums=C0CAF5" alt="Streak de contribuciones" />
+</p>
+
+<p align="center">
+  <img width="92%" src="https://github-activity-graph.vercel.app/graph?username=jorgeTTPD&hide_border=true&bg_color=00000000&color=C0CAF5&line=7AA2F7&point=BB9AF7&area=true&area_color=1a1b26&custom_title=Pulso%20de%20commits" alt="Pulso de commits" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy-kappa.vercel.app/?username=jorgeTTPD&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=1&column=7&title_color=7AA2F7&text_color=9AA5CE" alt="Trophies" />
+</p>
+
+<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jorgeTTPD&theme=tokyonight" width="250px" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorgeTTPD&theme=tokyonight" width="250px" />
+</p>
 
 <br>
 
 
 </div>
+
+<img src="https://raw.githubusercontent.com/jorgeTTPD/jorgeTTPD/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake de contribuciones" />
