@@ -140,6 +140,14 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorgeTTPD&theme=tokyonight" width="250px" />
 </p>
 
+### ⚔️ Codeforces
+
+<p align="center">
+  <a href="https://codeforces.com/profile/jorge_qe">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=jorge_qe&theme=tokyonight" alt="Codeforces stats de jorge_qe" />
+  </a>
+</p>
+
 <br>
 
 
