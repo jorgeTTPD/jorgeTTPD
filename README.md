@@ -6,7 +6,7 @@
 ╚═╝╚═╝╩╚═╝╚╝    ╩ ╚═╝    ╩═╝ ╩╚═╝
 </pre>
 
-<sub>systems · low-level · music-driven</sub>
+
 
 <br>
 
