@@ -75,15 +75,16 @@
 ## Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jorgeTTPD&layout=compact&langs_count=8&hide_border=true&hide=html,css&bg_color=00000000&title_color=7AA2F7&text_color=9AA5CE" alt="Top languages" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jorgeTTPD&theme=tokyonight" width="320" alt="Top languages by repo" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorgeTTPD&theme=tokyonight" width="320" alt="Top languages by commit" />
 </div>
 
-<div align="center">
-  <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=jorgeTTPD&hide_border=true&background=00000000&stroke=7AA2F7&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7&sideLabels=9AA5CE&dates=565F89&currStreakNum=C0CAF5&sideNums=C0CAF5" alt="Streak de contribuciones" />
-</div>
+## Codeforces
 
 <div align="center">
-  <img width="92%" src="https://github-activity-graph.vercel.app/graph?username=jorgeTTPD&hide_border=true&bg_color=00000000&color=C0CAF5&line=7AA2F7&point=BB9AF7&area=true&area_color=1a1b26&custom_title=Pulso%20de%20commits" alt="Pulso de commits" />
+  <a href="https://codeforces.com/profile/jorge_qe">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=jorge_qe&theme=tokyonight" alt="Codeforces stats de jorge_qe" />
+  </a>
 </div>
 
 ## Mantra
