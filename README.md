@@ -29,8 +29,6 @@
 
 > 💀 Web development doesn't interest me. React, Astro & Next.js can stay dead to me.
 
-- Enfocado en sistemas, low-level y tooling en Linux.
-- Competitive programming y construcción con Rust, C++ y Python.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jorge_q_e/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@jorge5bz)
