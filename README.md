@@ -6,7 +6,8 @@
 ╚═╝╚═╝╩╚═╝╚╝    ╩ ╚═╝    ╩═╝ ╩╚═╝
 </pre>
 
-
+<sub>systems · low-level · music-driven</sub><br>
+<sub>Rust · C++ · Linux · Competitive Programming</sub>
 
 <br>
 
@@ -26,11 +27,12 @@
 
 </div>
 
----
-
 ## About
 
 > 💀 Web development doesn't interest me. React, Astro & Next.js can stay dead to me.
+
+- Enfocado en sistemas, low-level y tooling en Linux.
+- Competitive programming y construcción con Rust, C++ y Python.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jorge_q_e/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@jorge5bz)
@@ -83,14 +85,12 @@
 
 </div>
 
-## Stats
+## Proof
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jorgeTTPD&theme=tokyonight" width="320" alt="Top languages by repo" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorgeTTPD&theme=tokyonight" width="320" alt="Top languages by commit" />
 </div>
-
-## Codeforces
 
 <div align="center">
   <a href="https://codeforces.com/profile/jorge_qe">
@@ -98,9 +98,7 @@
   </a>
 </div>
 
-## Mantra
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Don%27t%20you%20ever%20let%20a%20soul%20in%20the%20world%20tell%20you%20that%20you%20can%27t%20be%20exactly%20who%20you%20are.&author=Lady%20Gaga" alt="Lady Gaga Quote" />
+  <sub><i>Don't you ever let a soul in the world tell you that you can't be exactly who you are. — Lady Gaga</i></sub>
 </div>
 
