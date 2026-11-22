@@ -6,8 +6,6 @@
 ╚═╝╚═╝╩╚═╝╚╝    ╩ ╚═╝    ╩═╝ ╩╚═╝
 </pre>
 
-<sub>systems · low-level · music-driven</sub><br>
-<sub>Rust · C++ · Linux · Competitive Programming</sub>
 
 <br>
 
